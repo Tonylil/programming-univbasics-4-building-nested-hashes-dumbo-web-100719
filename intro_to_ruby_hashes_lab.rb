@@ -29,7 +29,10 @@ def monopoly_with_third_tier
       four_pieces_owned: 200
     },
     names: {
-      
+      k1: 1,
+      k2: 2,
+      k3: 3,
+      k4: 4
     }
   }
   }
